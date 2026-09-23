@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666375399338",
+    "project_id": "controlasistenciaapp-d8e56",
+    "storage_bucket": "controlasistenciaapp-d8e56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666375399338:android:7e0dbee507606421f7edd3",
+        "android_client_info": {
+          "package_name": "com.example.app_control_asistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMzLoFVubuLCzx_6AX7zOVWTflpg-pcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
